@@ -1,10 +1,7 @@
 package io_w2;
 
 import org.eclipse.swt.SWT;
-import org.eclipse.swt.events.MouseEvent;
-import org.eclipse.swt.events.MouseListener;
-import org.eclipse.swt.events.SelectionEvent;
-import org.eclipse.swt.events.SelectionListener;
+import org.eclipse.swt.events.*;
 import org.eclipse.swt.graphics.Color;
 import org.eclipse.swt.graphics.Font;
 import org.eclipse.swt.layout.GridData;
@@ -17,6 +14,10 @@ import org.eclipse.swt.widgets.Label;
 import org.eclipse.swt.widgets.MessageBox;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Text;
+import sun.applet.resources.MsgAppletViewer;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class SimpleTwoColumnsForm {
 	private Label labelFirstName;
@@ -30,6 +31,15 @@ public class SimpleTwoColumnsForm {
 	private Text textEmail;
 	private Label labelSex;
 	private Combo comboSex;
+
+
+	public static final Pattern VALID_EMAIL_ADDRESS_REGEX =
+			Pattern.compile("^[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,6}$", Pattern.CASE_INSENSITIVE);
+
+	public static boolean validate(String emailStr) {
+		Matcher matcher = VALID_EMAIL_ADDRESS_REGEX.matcher(emailStr);
+		return matcher.find();
+	}
 
 	public void initGui() {
 		Display display = new Display ();
@@ -76,7 +86,20 @@ public class SimpleTwoColumnsForm {
 		comboSex.add("Kobieta");
 		comboSex.add("Mężczyzna");
 		comboSex.setLayoutData(gd);
-		
+
+		textEmail.addModifyListener(new ModifyListener() {
+			public void modifyText(ModifyEvent modifyEvent) {
+				String text=((Text)modifyEvent.widget).getText();
+				if(text.length()>7 && !validate(text)){
+					MessageBox mb=new MessageBox(shell,SWT.OK);
+					mb.setText("wprowadzony nieprawidłowy adres email");
+					mb.setMessage(text);
+					mb.open();
+
+				}
+			}
+		});
+
 		shell.open ();
 		shell.setSize(650,250);
 		while (!shell.isDisposed ()) {

@@ -20,8 +20,6 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="andrzej dudek &lt;ad@abkom.eu&gt;" />
-        <option value="andrzej dudek &lt;a.dudek@pwr.edu.pl&gt;" />
-        <option value="a.dudek@pwr.edu.pl" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,22 +110,16 @@
       <workItem from="1605689886393" duration="260000" />
       <workItem from="1605690189751" duration="78000" />
       <workItem from="1605698200538" duration="392000" />
+      <workItem from="1605699470722" duration="1107000" />
     </task>
-    <task id="LOCAL-00001" summary="saving before updating">
-      <created>1605700259863</created>
+    <task id="LOCAL-00001" summary="This ugly yellow label removed">
+      <created>1605699892214</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1605700259863</updated>
+      <updated>1605699892214</updated>
     </task>
-    <task id="LOCAL-00002" summary="Zmiana rozmiaru ekranu">
-      <created>1605701030077</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1605701030077</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,23 +129,22 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="saving before updating" />
-    <MESSAGE value="Zmiana rozmiaru ekranu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zmiana rozmiaru ekranu" />
+    <MESSAGE value="This ugly yellow label removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="This ugly yellow label removed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="114" key="#Project_Structure" timestamp="1602670996611">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="440" y="114" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1602670996611" />
-    <state x="585" y="108" key="CommitChangelistDialog2" timestamp="1605701029391">
+    <state x="199" y="60" width="1142" height="864" key="CommitChangelistDialog2" timestamp="1605699891412">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="585" y="108" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605701029391" />
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1605700537871">
+    <state x="199" y="60" width="1142" height="864" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605699891412" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1605698596568">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605700537871" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605698596568" />
     <state x="666" y="281" key="FileChooserDialogImpl" timestamp="1603272508751">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -162,38 +153,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="687" y="240" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605689968487" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1605701872587">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1605700696301">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605701872587" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1605701872587">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605700696301" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1605700696301">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605701872587" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1605701872586">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605700696301" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1605700696301">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605701872586" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1605701872587">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605700696301" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1605700696301">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605701872587" />
-    <state x="9" y="12" width="1878" height="1013" key="MergeDialog" timestamp="1605701488358">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="9" y="12" width="1878" height="1013" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605701488358" />
-    <state x="264" y="301" width="1213" height="478" key="MultipleFileMergeDialog" timestamp="1605701488382">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="264" y="301" width="1213" height="478" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605701488382" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605700696301" />
     <state x="461" y="184" key="SettingsEditor" timestamp="1605698596147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605698596147" />
-    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605701044800">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1605699903552">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605701044800" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605699903552" />
     <state x="798" y="0" key="new project wizard" timestamp="1602672618860">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
