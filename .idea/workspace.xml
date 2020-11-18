@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="455a36bf-3cae-47ce-ada6-f8a27ce5ba85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/io_w2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\andrzej\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1irTSYuRI5p2UVM3ua1VpMXu8Jx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../REST_PWR_2019" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15136719" />
+    <property name="project.structure.side.proportion" value="0.4078341" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn compile na_serwer_testowy" />
+      <command value="mvn help:effective-pom" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Wyklad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io_w2.Wyklad2" />
+      <module name="io_w2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io_w2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Wyklad2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\andrzej\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="455a36bf-3cae-47ce-ada6-f8a27ce5ba85" name="Default Changelist" comment="" />
+      <created>1602664716245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602664716245</updated>
+      <workItem from="1602664718789" duration="100000" />
+      <workItem from="1602670579268" duration="4449000" />
+      <workItem from="1602757736118" duration="10000" />
+      <workItem from="1602931967603" duration="58000" />
+      <workItem from="1603271706181" duration="800000" />
+      <workItem from="1605689886393" duration="260000" />
+      <workItem from="1605690189751" duration="78000" />
+      <workItem from="1605698200538" duration="392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="114" key="#Project_Structure" timestamp="1602670996611">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1602670996611" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1605698596568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605698596568" />
+    <state x="666" y="281" key="FileChooserDialogImpl" timestamp="1603272508751">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="666" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1603272508751" />
+    <state x="687" y="240" key="Github.ShareDialog" timestamp="1605689968487">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="687" y="240" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605689968487" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1605690166560">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605690166560" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1605690166560">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605690166560" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1605690166559">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605690166559" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1605690166560">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605690166560" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1605698596147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605698596147" />
+    <state x="798" y="0" key="new project wizard" timestamp="1602672618860">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="798" y="0" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602672618860" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1602674404941">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602674404941" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1602673548496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602673548496" />
+  </component>
+</project>
