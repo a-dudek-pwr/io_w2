@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="455a36bf-3cae-47ce-ada6-f8a27ce5ba85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/io_w2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io_w2/SimpleTwoColumnsForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io_w2/SimpleTwoColumnsForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -34,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -100,6 +105,7 @@
       <workItem from="1605689886393" duration="260000" />
       <workItem from="1605690189751" duration="78000" />
       <workItem from="1605698200538" duration="392000" />
+      <workItem from="1605699470722" duration="307000" />
     </task>
     <servers />
   </component>

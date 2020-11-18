@@ -43,7 +43,7 @@ public class SimpleTwoColumnsForm {
 		Label empty=new Label(shell, SWT.NONE);
 		labelFirstName=new Label(shell, SWT.NONE);
 		labelFirstName.setText("Podaj imię");
-		labelFirstName.setForeground(new Color(null, 255,255,0));
+		labelFirstName.setForeground(new Color(null, 128,128,128));
 		firstName=new Text(shell,SWT.BORDER);
 		firstName.setBackground(new Color(null,220,220,220));
 		labelLastName=new Label(shell, SWT.NONE);
