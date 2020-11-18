@@ -68,7 +68,7 @@ public class SimpleTwoColumnsForm {
 		comboSex.add("Mężczyzna");
 		
 		shell.open ();
-		shell.pack();
+		shell.setSize(650,250);
 		while (!shell.isDisposed ()) {
 			if (!display.readAndDispatch ()) display.sleep ();
 		}
