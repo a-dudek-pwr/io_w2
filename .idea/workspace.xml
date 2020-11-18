@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="455a36bf-3cae-47ce-ada6-f8a27ce5ba85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io_w2/SimpleTwoColumnsForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io_w2/SimpleTwoColumnsForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="andrzej dudek &lt;a.dudek@pwr.edu.pl&gt;" />
         <option value="a.dudek@pwr.edu.pl" />
       </list>
     </option>
@@ -110,6 +112,14 @@
       <workItem from="1605690189751" duration="78000" />
       <workItem from="1605698200538" duration="392000" />
     </task>
+    <task id="LOCAL-00001" summary="saving before updating">
+      <created>1605700259863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605700259863</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,14 +137,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="440" y="114" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1602670996611" />
-    <state x="585" y="108" key="CommitChangelistDialog2" timestamp="1605700212607">
+    <state x="585" y="108" key="CommitChangelistDialog2" timestamp="1605700259211">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="585" y="108" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605700212607" />
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1605698596568">
+    <state x="585" y="108" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605700259211" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1605700537871">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605698596568" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605700537871" />
     <state x="666" y="281" key="FileChooserDialogImpl" timestamp="1603272508751">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -143,26 +153,34 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="687" y="240" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605689968487" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1605690166560">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1605700728187">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605690166560" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1605690166560">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605700728187" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1605700728187">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605690166560" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1605690166559">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605700728187" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1605700728187">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605690166559" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1605690166560">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605700728187" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1605700728187">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605690166560" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605700728187" />
+    <state x="598" y="301" key="MultipleFileMergeDialog" timestamp="1605700288874">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="598" y="301" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605700288874" />
     <state x="461" y="184" key="SettingsEditor" timestamp="1605698596147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605698596147" />
+    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605700270131">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605700270131" />
     <state x="798" y="0" key="new project wizard" timestamp="1602672618860">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
