@@ -74,7 +74,7 @@ public class SimpleTwoColumnsForm {
 		birthDate=new DateTime(shell, SWT.DROP_DOWN);
 		birthDate.setLayoutData(gd);
 		labelEmail=new Label(shell, SWT.NONE);
-		labelEmail.setText("Podaj e-mail");
+		labelEmail.setText("Podaj adres e-mail");
 		labelEmail.setForeground(new Color(null, 0,240,0));
 		textEmail=new Text(shell,SWT.BORDER);
 		textEmail.setBackground(new Color(null,220,220,220));
