@@ -85,6 +85,7 @@ public class SimpleTwoColumnsForm {
 		comboSex=new Combo(shell, SWT.BORDER);
 		comboSex.add("Kobieta");
 		comboSex.add("Mężczyzna");
+		comboSex.add("inna");
 		comboSex.setLayoutData(gd);
 
 		textEmail.addModifyListener(new ModifyListener() {
